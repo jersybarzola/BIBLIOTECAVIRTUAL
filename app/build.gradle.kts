@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.Barzola.primeraclecssilla"
+    namespace = "com.Barzola.sueñosdepapel"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.Barzola.primeraclecssilla"
+        applicationId = "com.Barzola.sueñosdepapel"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
